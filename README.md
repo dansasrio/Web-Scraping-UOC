@@ -1,9 +1,9 @@
 Práctica 1: Web Scraping
-<hr />
-Asignatura: Tipología y ciclo de vida de los datos.
-Máster: Ciencia de Datos (Data science) de la Universitat Oberta de Catalunya. 
-Lenguaje:Python 
-Objetivo: Extraer datos de la web xxxx y generar un dataset.
+------------------------
+*Asignatura*: Tipología y ciclo de vida de los datos.
+*Máster:* Ciencia de Datos (Data science) de la Universitat Oberta de Catalunya. 
+*Lenguaje:* Python 
+*Objetivo:* Extraer datos de la web xxxx y generar un dataset.
 
 Miembros:
 ---------
