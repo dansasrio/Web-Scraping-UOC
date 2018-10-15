@@ -5,11 +5,11 @@
  - Objetivo: Extraer datos de la web https://www.arpem.com/servicios/gasolineras-baratas/ y generar un dataset.
 
 # Equipo individual:
- - Daniel Sastre del Río.
+ - **Daniel Sastre del Río**.
  
 # Ficheros:
- - dansasrio_Webscraping.py: código python que realiza el Web Scraping de la Web.
- - gasolineras.csv: dataset con los datos que resultan del Web Scraping de la Web.
+ - **dansasrio_Webscraping.py**: código python que realiza el Web Scraping de la Web.
+ - **gasolineras.csv**: dataset con los datos que resultan del Web Scraping de la Web.
 
 
 # Recursos:
